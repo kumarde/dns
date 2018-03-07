@@ -1,0 +1,7 @@
+[package]
+name = "preferred_name_syntax"
+version = "0.1.0"
+authors = ["Deepak Kumar <kumarde@umich.edu>"]
+
+[dependencies]
+rand = "0.4.0"
