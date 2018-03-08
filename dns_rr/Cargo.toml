@@ -1,0 +1,6 @@
+[package]
+name = "dns_rr"
+version = "0.1.0"
+authors = ["Deepak Kumar <kumarde@umich.edu>"]
+
+[dependencies]
